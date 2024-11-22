@@ -11,7 +11,7 @@ To run this project you will need
 
 <h3>Loading the Userscript</h3>
 To load the userscript, follow the steps below:<br><br>
-1) Open your userscript loader<br>
-2) Select the option to create a new userscript<br>
-3) Paste the contents of <a href="https://github.com/arithefirst/Remove-Google-AI-Overview/blob/main/script.js">script.js</a> into the blank input field. If text was auto-generated when you created a new script, ensure it is deleted before pasting in the contents of <a href="https://github.com/arithefirst/Remove-Google-AI-Overview/blob/main/script.js">script.js</a>.<br>
-4) Make any google search, and see the AI Overview does not plague your screen!<br>
+1. Open your userscript loader<br>
+2. Select the option to create a new userscript<br>
+3. Paste the contents of <a href="https://github.com/arithefirst/Remove-Google-AI-Overview/blob/main/script.js">script.js</a> into the blank input field. If text was auto-generated when you created a new script, ensure it is deleted before pasting in the contents of <a href="https://github.com/arithefirst/Remove-Google-AI-Overview/blob/main/script.js">script.js</a>.<br>
+4. Make any google search, and see the AI Overview does not plague your screen!<br>
